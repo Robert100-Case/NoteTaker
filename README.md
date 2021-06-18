@@ -12,4 +12,5 @@ This program was developed using the node.js backend module express
 MIT
 
 ## Screenshots
-<img src="2021-06-18.png>
+<img src="2021-06-18.png">
+<img src="2021-06-18 (1).png">
