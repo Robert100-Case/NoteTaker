@@ -10,3 +10,6 @@ This program was developed using the node.js backend module express
 
 ## License
 MIT
+
+## Screenshots
+<img src="2012-06-18.png>
