@@ -2,7 +2,7 @@
 This program stores notes for a small business owner
 
 ## Link to Heroku Deployment
-https://shielded-temple-46469.herokuapp.com/notes.html
+https://shielded-temple-46469.herokuapp.com/
 
 ## Usage
 
